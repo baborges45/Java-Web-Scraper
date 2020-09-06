@@ -8,6 +8,9 @@ Link https://www.amazon.com.br/gp/browse.html?node=6740748011&ref_=nav_em__books
 # Executando o projeto:
 
 Tenha instalado em seu pc alguma IDE como o Eclipse ou Intellij.
+
 Faça o download ou clone do projeto.
+
 Depois abra a pasta em uma dessas IDEs e execute o código java da classe main.
+
 E que DEUS ilumine nossa trajetótia....
